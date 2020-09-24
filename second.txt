@@ -1,3 +1,13 @@
 second practice
 second practice2
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+second practice3
+second practice4
+second practice6
+=======
+second practice5
+>>>>>>> second-branch1
+>>>>>>> branch_3
